@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Taarun8431
+- 👋 Hi, I’m Taarun
 - 👀 I’m interested in AI and development 
 
 
