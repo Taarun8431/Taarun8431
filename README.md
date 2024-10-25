@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Taarun
-- 👀 I’m interested in AI and development 
+- 👀 My primary interest include AI and development 
 
 
 <!---
